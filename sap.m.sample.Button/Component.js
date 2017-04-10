@@ -2,6 +2,8 @@ sap.ui.define(['sap/ui/core/UIComponent'],
 	function(UIComponent) {
 	"use strict";
 //new comment added by Shyam
+	//Check backward Pull request functionality
+	
 	var Component = UIComponent.extend("sap.m.sample.Button.Component", {
 
 		metadata : {
