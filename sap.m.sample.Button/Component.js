@@ -3,7 +3,7 @@ sap.ui.define(['sap/ui/core/UIComponent'],
 	"use strict";
 //new comment added by Shyam
 	//Check backward Pull request functionality
-	//replicate conflict at webIDE - Gautam test23
+	//replicate conflict at webIDE - Gautam test23 ggggg
 	
 	var Component = UIComponent.extend("sap.m.sample.Button.Component", {
 
