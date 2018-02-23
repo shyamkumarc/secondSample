@@ -56,7 +56,7 @@
 				<Button text="Coming Soon"
 						press="onPress"
 						ariaDescribedBy="comingSoonButtonDescription genericButtonDescription"
-						enabled="true">
+						enabled="false">
 					<layoutData>
 						<FlexItemData growFactor="1" />
 					</layoutData>
